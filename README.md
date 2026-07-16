@@ -1,5 +1,5 @@
 # Java and JavaFX Simulation Suite
-
+[![Java build verification](https://github.com/Taksh458/java-javafx-simulation-suite/actions/workflows/java-build.yml/badge.svg)](https://github.com/Taksh458/java-javafx-simulation-suite/actions/workflows/java-build.yml)
 A portfolio repository demonstrating object-oriented design, queue-based simulation, Maven organisation, and an optional JavaFX dashboard.
 
 ## Included applications
