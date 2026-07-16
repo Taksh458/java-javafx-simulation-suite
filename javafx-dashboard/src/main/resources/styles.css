@@ -1,0 +1,8 @@
+.root { -fx-font-family: "Segoe UI", sans-serif; -fx-background-color: #0b1423; -fx-text-fill: #f3f6fb; }
+.label { -fx-text-fill: #dfe7f3; }
+.title { -fx-font-size: 28px; -fx-font-weight: bold; }
+.subtitle { -fx-text-fill: #8eabc9; }
+.button { -fx-background-color: #397cf5; -fx-text-fill: white; -fx-background-radius: 8px; -fx-padding: 10px 14px; }
+.list-view { -fx-background-color: #111f34; -fx-border-color: #2a4162; -fx-border-radius: 12px; -fx-background-radius: 12px; }
+.list-cell { -fx-background-color: transparent; -fx-text-fill: #dbe7f6; -fx-padding: 12px; }
+.list-cell:filled:selected { -fx-background-color: #263f66; }
